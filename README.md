@@ -2,6 +2,7 @@ This repo is for bombs ( for example: Fork bomb, File bomb and more).
 # Run at them at your own risk!!
 # I vill not be responsible for any damage these files do!!.
 # For Educational Purpose ONLY!!
+# Run them as an administrator
 # Explenations:
 If there is an extention (eg: xxp.bat), the extention is the os name, it was tested on (eg:xp). If there is no extentin it works in all windovs oses
 # v.bat is a computer bomb that renders the computer useless.
