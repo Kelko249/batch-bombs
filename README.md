@@ -5,6 +5,8 @@ This repo is for bombs ( for example: Fork bomb, File bomb and more).
 # Run them as an administrator
 # Explenations:
 If there is an extention (eg: xxp.bat), the extention is the os name, it was tested on (eg:xp). If there is no extentin it works in all windovs oses
+# s.bat is a file bomb it creates files in a picked directory
+# t is not done yet
 # u.bat is a user virus it infinitely creates users
 # v.bat is a computer bomb that renders the computer useless.
 # w.bat is a malware that remowes the boot sector and more.
